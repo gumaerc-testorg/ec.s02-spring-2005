@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains the research work done by a student.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-s02-water-jet-technologies-spring-2005/26ac719811d0109af2255412dedc8ef1_MITEC_S02S05_arielrideout.pdf
+file: /media/courses/ec-s02-water-jet-technologies-spring-2005/26ac719811d0109af2255412dedc8ef1_MITEC_S02S05_arielrideout.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: Ariel Rideout
 uid: 26ac7198-11d0-109a-f225-5412dedc8ef1
