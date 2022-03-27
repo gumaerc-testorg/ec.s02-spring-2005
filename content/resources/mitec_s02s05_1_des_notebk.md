@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a810fd06-6922-2c4c-a9d8-a1bb61a625b3
 resourcetype: Document
 title: 1 Design Notebook
 uid: 7f111bd8-c121-4983-f65e-d8e5ac3f70d8

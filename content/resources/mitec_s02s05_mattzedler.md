@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 4ec03f23-945e-15b2-75c9-18c8ae0c2d0d
 resourcetype: Document
 title: 'Waterjet Technologies : Brainstorming'
 uid: b0e5ef79-f229-23f0-10b6-f426ba8fd44f

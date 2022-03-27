@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a810fd06-6922-2c4c-a9d8-a1bb61a625b3
 resourcetype: Document
 title: 10 Final Evaluation
 uid: 24ac354c-d45d-aafc-4f26-9010bea93467

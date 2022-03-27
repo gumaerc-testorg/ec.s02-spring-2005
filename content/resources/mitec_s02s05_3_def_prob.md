@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a810fd06-6922-2c4c-a9d8-a1bb61a625b3
 resourcetype: Document
 title: Defining the Problem
 uid: 6d48604d-a06d-1cdb-41db-dff22fa5345c

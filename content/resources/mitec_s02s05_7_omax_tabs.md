@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a810fd06-6922-2c4c-a9d8-a1bb61a625b3
 resourcetype: Document
 title: 7 OMAX Tabs
 uid: 054c1eaa-a030-233a-51fc-a73434959450

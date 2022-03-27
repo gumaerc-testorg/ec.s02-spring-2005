@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a810fd06-6922-2c4c-a9d8-a1bb61a625b3
 resourcetype: Document
 title: 4 Brainstorming
 uid: 03847328-a1e9-d699-e739-3739b2663480

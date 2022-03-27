@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 4ec03f23-945e-15b2-75c9-18c8ae0c2d0d
 resourcetype: Document
 title: Cafeteria Tray Design
 uid: f26c83ae-fc3e-8969-6772-24b970820aaa
