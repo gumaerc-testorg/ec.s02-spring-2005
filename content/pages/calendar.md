@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This Calendar section consists the list of lecture notes which would
+  be covered during the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

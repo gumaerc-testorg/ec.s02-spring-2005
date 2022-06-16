@@ -2,7 +2,7 @@
 content_type: resource
 description: This file consists of questions which are used as final evaluation of
   the students.
-file: /media/courses/ec-s02-water-jet-technologies-spring-2005/24ac354cd45daafc4f269010bea93467_MITEC_S02S05_10_finaleval.pdf
+file: /courses/ec-s02-water-jet-technologies-spring-2005/24ac354cd45daafc4f269010bea93467_MITEC_S02S05_10_finaleval.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -14,3 +14,5 @@ resourcetype: Document
 title: 10 Final Evaluation
 uid: 24ac354c-d45d-aafc-4f26-9010bea93467
 ---
+This file consists of questions which are used as final evaluation of the students.
+

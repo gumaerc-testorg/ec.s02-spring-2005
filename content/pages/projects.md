@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: The projects section contains the project work submitted by the students.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -12,24 +13,24 @@ The work of the class is presented here, from research on the topic through the 
 Research
 --------
 
-Matt Zedler ([PDF]({{< baseurl >}}/resources/mitec_s02s05_mattzedler))
+Matt Zedler ({{% resource_link b0e5ef79-f229-23f0-10b6-f426ba8fd44f "PDF" %}})
 
-Ariel Rideout ([PDF]({{< baseurl >}}/resources/mitec_s02s05_arielrideout))
+Ariel Rideout ({{% resource_link 26ac7198-11d0-109a-f225-5412dedc8ef1 "PDF" %}})
 
 Design Projects
 ---------------
 
-Snowflake Design ([PDF]({{< baseurl >}}/resources/mitec_s02s05_snowflake))
+Snowflake Design ({{% resource_link defbabf2-eace-8b02-ea4a-166e24a154a1 "PDF" %}})
 
-Coffee Holder Design ([PDF]({{< baseurl >}}/resources/mitec_s02s05_coffeeholder))
+Coffee Holder Design ({{% resource_link 81079cd0-d674-d0db-3fdc-3f60f00bff6b "PDF" %}})
 
-Learning Center Survey ([PDF]({{< baseurl >}}/resources/mitec_s02s05_learn_center))
+Learning Center Survey ({{% resource_link bd2fca29-1487-2f27-2c0e-ab825abe3d4d "PDF" %}})
 
-Cafeteria Tray Design ([PDF]({{< baseurl >}}/resources/mitec_s02s05_cafe_tray))
+Cafeteria Tray Design ({{% resource_link f26c83ae-fc3e-8969-6772-24b970820aaa "PDF" %}})
 
 Final Assignments
 -----------------
 
-Final Paper ([PDF]({{< baseurl >}}/resources/mitec_s02s05_final_paper))
+Final Paper ({{% resource_link 01353498-d8c4-561f-f655-cfbc06acbfde "PDF" %}})
 
-Final Presentation ([PDF - 1.7 MB]({{< baseurl >}}/resources/mitec_s02s05_final_pres-1))
+Final Presentation ({{% resource_link 31dc2f9e-1a43-ac3d-0701-429c40c35b49 "PDF - 1.7 MB" %}})
