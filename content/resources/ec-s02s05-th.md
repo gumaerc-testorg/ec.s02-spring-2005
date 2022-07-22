@@ -10,10 +10,10 @@ image_metadata:
   credit: Courtesy of Alea Teeters and Michael Short.
   image-alt: A photomontage of students using different fabrication tools.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: ec-s02s05-th.jpg
 uid: caa1bd76-04ab-5bbd-23c7-9df08a7ad613
 ---
 Students working on projects in class. Courtesy of Alea Teeters and Michael Short.
-

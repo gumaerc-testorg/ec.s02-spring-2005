@@ -5,6 +5,7 @@ file: /courses/ec-s02-water-jet-technologies-spring-2005/bcbc873fc85c7affefce670
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 8 Documentation 1
 uid: bcbc873f-c85c-7aff-efce-6706256318f0
 ---
 This file contains the information about  what to name the products designed.
-

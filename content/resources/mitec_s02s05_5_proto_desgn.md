@@ -6,6 +6,7 @@ file: /courses/ec-s02-water-jet-technologies-spring-2005/489df43f649fe2be077715a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ' 5 Prototype Design'
 uid: 489df43f-649f-e2be-0777-15aa503788e8
 ---
 This file consists of the instructions for making the prototype of the design.
-

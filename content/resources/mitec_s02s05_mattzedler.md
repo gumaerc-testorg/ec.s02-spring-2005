@@ -6,6 +6,7 @@ file: /courses/ec-s02-water-jet-technologies-spring-2005/b0e5ef79f22923f010b6f42
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Waterjet Technologies : Brainstorming'
 uid: b0e5ef79-f229-23f0-10b6-f426ba8fd44f
 ---
 This file contains the research work on waterjet technologies : brainstorming by a student, matt zedler.
-

@@ -6,6 +6,7 @@ file: /courses/ec-s02-water-jet-technologies-spring-2005/24ac354cd45daafc4f26901
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 10 Final Evaluation
 uid: 24ac354c-d45d-aafc-4f26-9010bea93467
 ---
 This file consists of questions which are used as final evaluation of the students.
-

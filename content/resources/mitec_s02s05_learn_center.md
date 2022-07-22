@@ -6,6 +6,7 @@ file: /courses/ec-s02-water-jet-technologies-spring-2005/bd2fca2914872f272c0eab8
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Learning Center Survey
 uid: bd2fca29-1487-2f27-2c0e-ab825abe3d4d
 ---
 This file contains questions for a survey which will help with the redesign of the coffee cup carrying tray so that it can better accommodate the needs.
-

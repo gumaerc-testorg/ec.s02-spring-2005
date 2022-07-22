@@ -6,6 +6,7 @@ file: /courses/ec-s02-water-jet-technologies-spring-2005/31dc2f9e1a43ac3d0701429
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Final Presentation
 uid: 31dc2f9e-1a43-ac3d-0701-429c40c35b49
 ---
 This file contains the final presentation by the students on completion of the course.
-

@@ -5,6 +5,7 @@ file: /courses/ec-s02-water-jet-technologies-spring-2005/81079cd0d674d0db3fdc3f6
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Coffee Holder Design
 uid: 81079cd0-d674-d0db-3fdc-3f60f00bff6b
 ---
 This file describes the steps through which a coffee holder was designed.
-
