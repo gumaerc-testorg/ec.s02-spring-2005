@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the  instructions to work on the omax? tabs and gives
   the tray measurements to be worked upon.
 file: /courses/ec-s02-water-jet-technologies-spring-2005/054c1eaaa030233a51fca73434959450_MITEC_S02S05_7_omax_tabs.pdf
+file_size: 119676
 file_type: application/pdf
 learning_resource_types:
 - Assignments

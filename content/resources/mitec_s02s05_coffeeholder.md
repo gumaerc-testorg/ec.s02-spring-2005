@@ -2,6 +2,7 @@
 content_type: resource
 description: This file describes the steps through which a coffee holder was designed.
 file: /courses/ec-s02-water-jet-technologies-spring-2005/81079cd0d674d0db3fdc3f60f00bff6b_MITEC_S02S05_coffeeholder.pdf
+file_size: 764317
 file_type: application/pdf
 learning_resource_types:
 - Projects
