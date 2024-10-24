@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information about  what to name the products designed.
-file: /courses/ec-s02-water-jet-technologies-spring-2005/bcbc873fc85c7affefce6706256318f0_MITEC_S02S05_8_document1.pdf
+file: /ol-ocw-studio-app/courses/ec-s02-water-jet-technologies-spring-2005/bcbc873fc85c7affefce6706256318f0_MITEC_S02S05_8_document1.pdf
 file_size: 86055
 file_type: application/pdf
 learning_resource_types:
