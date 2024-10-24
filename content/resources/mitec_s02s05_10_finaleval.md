@@ -2,7 +2,7 @@
 content_type: resource
 description: This file consists of questions which are used as final evaluation of
   the students.
-file: /courses/ec-s02-water-jet-technologies-spring-2005/24ac354cd45daafc4f269010bea93467_MITEC_S02S05_10_finaleval.pdf
+file: /ol-ocw-studio-app/courses/ec-s02-water-jet-technologies-spring-2005/24ac354cd45daafc4f269010bea93467_MITEC_S02S05_10_finaleval.pdf
 file_size: 84063
 file_type: application/pdf
 learning_resource_types:
