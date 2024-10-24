@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains the research work on waterjet technologies : brainstorming
   by a student, matt zedler.'
-file: /courses/ec-s02-water-jet-technologies-spring-2005/b0e5ef79f22923f010b6f426ba8fd44f_MITEC_S02S05_mattzedler.pdf
+file: /ol-ocw-studio-app/courses/ec-s02-water-jet-technologies-spring-2005/b0e5ef79f22923f010b6f426ba8fd44f_MITEC_S02S05_mattzedler.pdf
 file_size: 151965
 file_type: application/pdf
 learning_resource_types:
