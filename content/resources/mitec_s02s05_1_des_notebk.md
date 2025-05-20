@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the description of a design notebook.
-file: /ol-ocw-studio-app/courses/ec-s02-water-jet-technologies-spring-2005/7f111bd8c1214983f65ed8e5ac3f70d8_MITEC_S02S05_1_des_notebk.pdf
+file: /courses/ec-s02-water-jet-technologies-spring-2005/7f111bd8c1214983f65ed8e5ac3f70d8_MITEC_S02S05_1_des_notebk.pdf
 file_size: 86757
 file_type: application/pdf
 learning_resource_types:

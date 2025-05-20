@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file explains how to go about a design process of a product.
-file: /ol-ocw-studio-app/courses/ec-s02-water-jet-technologies-spring-2005/03847328a1e9d699e7393739b2663480_MITEC_S02S05_4_brainstorm.pdf
+file: /courses/ec-s02-water-jet-technologies-spring-2005/03847328a1e9d699e7393739b2663480_MITEC_S02S05_4_brainstorm.pdf
 file_size: 543251
 file_type: application/pdf
 learning_resource_types:

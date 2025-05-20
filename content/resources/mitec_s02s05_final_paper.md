@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the draft of the report which would be submitted at
   the end of the course.
-file: /ol-ocw-studio-app/courses/ec-s02-water-jet-technologies-spring-2005/01353498d8c4561ff655cfbc06acbfde_MITEC_S02S05_final_paper.pdf
+file: /courses/ec-s02-water-jet-technologies-spring-2005/01353498d8c4561ff655cfbc06acbfde_MITEC_S02S05_final_paper.pdf
 file_size: 268306
 file_type: application/pdf
 learning_resource_types:
