@@ -9,7 +9,7 @@ uid: ac0b12e8-4d4e-4b94-90dc-5ff032fa3664
 ---
 The [MIT Hobby Shop](http://hobbyshop.mit.edu/), our home base.
 
-[The Learning Center](http://waltham.huntingtonhelps.com/), located in Waltham, MA.
+[The Learning Center](https://www.tlcdeaf.org/), located in Waltham, MA.
 
 [The Protestant Guild for Human Services, Inc.](http://www.guildhumanservices.org/), sponsors of the Learning Center.
 
