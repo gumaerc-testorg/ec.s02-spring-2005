@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file gives instructions to design a snowflake ornament.
-file: /ol-ocw-studio-app/courses/ec-s02-water-jet-technologies-spring-2005/1aaa62d026ad221fef001925e315cce3_MITEC_S02S05_2_snowflake.pdf
+file: /courses/ec-s02-water-jet-technologies-spring-2005/1aaa62d026ad221fef001925e315cce3_MITEC_S02S05_2_snowflake.pdf
 file_size: 85794
 file_type: application/pdf
 learning_resource_types:

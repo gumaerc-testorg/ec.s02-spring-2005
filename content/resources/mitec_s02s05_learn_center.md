@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains questions for a survey which will help with the redesign
   of the coffee cup carrying tray so that it can better accommodate the needs.
-file: /ol-ocw-studio-app/courses/ec-s02-water-jet-technologies-spring-2005/bd2fca2914872f272c0eab825abe3d4d_MITEC_S02S05_learn_center.pdf
+file: /courses/ec-s02-water-jet-technologies-spring-2005/bd2fca2914872f272c0eab825abe3d4d_MITEC_S02S05_learn_center.pdf
 file_size: 130975
 file_type: application/pdf
 learning_resource_types:
