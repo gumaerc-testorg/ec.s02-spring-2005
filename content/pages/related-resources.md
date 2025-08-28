@@ -15,7 +15,7 @@ The [MIT Hobby Shop](http://hobbyshop.mit.edu/), our home base.
 
 [National Dissemination Center for Children with Disabilities](https://www.parentcenterhub.org/) (now Center for Parent Information and Resources)
 
-[National Center on Workforce and Disability/Adult](https://www.oshastanddown.org/)
+[National Center on Workforce and Disability/Adult](https://www.corada.com/links/the-national-center-on-workforce-and-disability-adult-ncwd)
 
 [OMAX®](http://www.omax.com/) Water Jet Company
 

@@ -2,7 +2,7 @@
 content_type: resource
 description: This file explains how to gather information for the implementation of
   the process.
-file: /courses/ec-s02-water-jet-technologies-spring-2005/f1b1b1c9b404df057dc032d284d04a29_MITEC_S02S05_3_info_gather.pdf
+file: /ol-ocw-studio-app/courses/ec-s02-water-jet-technologies-spring-2005/f1b1b1c9b404df057dc032d284d04a29_MITEC_S02S05_3_info_gather.pdf
 file_size: 90512
 file_type: application/pdf
 learning_resource_types:
