@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/ec-s02-water-jet-technologies-spring-2005/201897795355f34e8ef29afb5297f812_MITEC_S02S05_a6_good_desgn.pdf
+file: /ol-ocw-studio-app/courses/ec-s02-water-jet-technologies-spring-2005/201897795355f34e8ef29afb5297f812_MITEC_S02S05_a6_good_desgn.pdf
 file_size: 226896
 file_type: application/pdf
 learning_resource_types:

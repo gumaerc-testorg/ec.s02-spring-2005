@@ -2,7 +2,7 @@
 content_type: resource
 description: This file prompts the students to do an introspection of the process
   by asking questions.
-file: /courses/ec-s02-water-jet-technologies-spring-2005/ebf1f49f78cab800a249ae9d8bf6ea74_MITEC_S02S05_Inclass.pdf
+file: /ol-ocw-studio-app/courses/ec-s02-water-jet-technologies-spring-2005/ebf1f49f78cab800a249ae9d8bf6ea74_MITEC_S02S05_Inclass.pdf
 file_size: 119598
 file_type: application/pdf
 learning_resource_types:
